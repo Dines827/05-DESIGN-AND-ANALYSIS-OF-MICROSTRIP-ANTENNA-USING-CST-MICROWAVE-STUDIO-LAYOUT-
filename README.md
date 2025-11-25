@@ -9,7 +9,7 @@ Software to be used: CST studio suite 2019 (Student edition)
 ![WhatsApp Image 2025-11-11 at 15 37 50_a086d552](https://github.com/user-attachments/assets/8f247ad7-6101-4501-b954-ff03dd112da5)
 
 
-**Mathematical Calculation**
+**Mathematical Calculation** 
 
 <img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/b6c74464-e862-4d26-be7c-e76738107067" />
 
